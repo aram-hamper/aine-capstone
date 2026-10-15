@@ -21,3 +21,9 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 
 - `todoist-preview.png` - Screenshot preview image of the Todoist clone application
 
+### Public Directory
+
+- `public/index.html` - HTML entry point with root div, meta tags, and Normalize.css CDN link
+- `public/favicon.ico` - Browser favicon for the application
+- `public/images/logo.png` - Todoist logo image used in the application header
+
