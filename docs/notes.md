@@ -68,3 +68,16 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 - `src/components/ProjectOverlay.js` - Overlay for selecting a project when adding tasks
 - `src/components/TaskDate.js` - Date picker overlay for task due dates
 
+### Source - Tests
+
+- `src/__tests__/App.spec.js` - Unit tests for the main App component
+- `src/__tests__/Header.spec.js` - Unit tests for the Header component
+- `src/__tests__/Sidebar.spec.js` - Unit tests for the Sidebar navigation component
+- `src/__tests__/Tasks.spec.js` - Unit tests for the Tasks display component
+- `src/__tests__/AddTask.spec.js` - Unit tests for the AddTask form component
+- `src/__tests__/AddProject.spec.js` - Unit tests for the AddProject form component
+- `src/__tests__/Projects.spec.js` - Unit tests for the Projects list component
+- `src/__tests__/IndividualProject.spec.js` - Unit tests for individual project items
+- `src/__tests__/ProjectOverlay.spec.js` - Unit tests for the project selection overlay
+- `src/__tests__/Checkbox.spec.js` - Unit tests for the task completion checkbox
+
