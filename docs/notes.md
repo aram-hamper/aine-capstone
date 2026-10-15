@@ -89,3 +89,7 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 
 - `.env` - Environment variables file (not tracked in git; contains sensitive credentials)
 
+### Documentation
+
+- `docs/notes.md` - Comprehensive inventory of all tracked files with descriptions
+
