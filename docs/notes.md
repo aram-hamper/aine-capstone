@@ -57,3 +57,14 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 - `src/components/layout/Sidebar.js` - Navigation sidebar with collated tasks and projects list
 - `src/components/layout/Content.js` - Main content wrapper combining Sidebar and Tasks components
 
+### Source - Components - Feature
+
+- `src/components/AddTask.js` - Task creation form with project and date selection overlays
+- `src/components/Tasks.js` - Main tasks display component showing tasks for selected project
+- `src/components/Checkbox.js` - Task completion checkbox component
+- `src/components/AddProject.js` - Project creation form component
+- `src/components/Projects.js` - Projects list display component
+- `src/components/IndividualProject.js` - Individual project item with edit/delete actions
+- `src/components/ProjectOverlay.js` - Overlay for selecting a project when adding tasks
+- `src/components/TaskDate.js` - Date picker overlay for task due dates
+
