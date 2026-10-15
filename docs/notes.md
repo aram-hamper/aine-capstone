@@ -27,3 +27,9 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 - `public/favicon.ico` - Browser favicon for the application
 - `public/images/logo.png` - Todoist logo image used in the application header
 
+### Source - Root Level
+
+- `src/index.js` - React application entry point that renders App component to DOM
+- `src/App.js` - Main application component with dark mode state and context providers
+- `src/App.scss` - Global application styles including dark mode theme
+
