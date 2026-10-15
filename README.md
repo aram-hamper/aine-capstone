@@ -50,3 +50,4 @@ CI=true npm test -- --watchAll=false
 ```
 
 **Note:** This is an older project that uses node-sass 4, which requires a compatible Node version. If you encounter issues during installation, ensure you're using a Node version that supports node-sass 4 (typically Node 12.x or earlier).
+Fjorge GitHub App branch-deploy verification (PR 102).
