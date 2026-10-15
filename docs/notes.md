@@ -4,3 +4,11 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 
 ## File Listing
 
+### Configuration Files
+
+- `.eslintrc.json` - ESLint configuration with Airbnb style guide, Prettier integration, and React/JSX rules
+- `.prettierrc.json` - Prettier code formatter configuration with 80-char line width and trailing commas
+- `.gitignore` - Git ignore patterns for dependencies, build artifacts, environment files, and logs
+- `package.json` - Project metadata, dependencies (React, Firebase, Moment), dev tools, and test configuration
+- `yarn.lock` - Yarn package manager lock file for reproducible dependency versions
+
