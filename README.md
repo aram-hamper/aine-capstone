@@ -27,3 +27,7 @@ CI=true npm test -- --watchAll=false
 ```
 
 **Note:** This is an older project that uses node-sass 4, which requires a compatible Node version. If you encounter issues during installation, ensure you're using a Node version that supports node-sass 4 (typically Node 12.x or earlier).
+
+## Contributing
+
+We welcome contributions to this project! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute safely and effectively.
