@@ -12,3 +12,12 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 - `package.json` - Project metadata, dependencies (React, Firebase, Moment), dev tools, and test configuration
 - `yarn.lock` - Yarn package manager lock file for reproducible dependency versions
 
+### Documentation & Licensing
+
+- `README.md` - Project overview, tutorial reference, setup instructions, and testing guide
+- `LICENSE.txt` - MIT License with copyright notice for Karl Hadwen
+
+### Assets
+
+- `todoist-preview.png` - Screenshot preview image of the Todoist clone application
+
