@@ -33,3 +33,15 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 - `src/App.js` - Main application component with dark mode state and context providers
 - `src/App.scss` - Global application styles including dark mode theme
 
+### Source - Constants
+
+- `src/constants/index.js` - Collated task definitions (Inbox, Today, Next 7 Days)
+
+### Source - Helpers
+
+- `src/helpers/index.js` - Utility functions for project/task lookup, collated task checking, and ID generation
+
+### Source - Hooks
+
+- `src/hooks/index.js` - Custom React hooks for tasks and projects with Firebase Firestore integration
+
