@@ -51,3 +51,9 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 - `src/context/projects-context.js` - React Context for managing projects state across the application
 - `src/context/selected-project-context.js` - React Context for tracking the currently selected project
 
+### Source - Components - Layout
+
+- `src/components/layout/Header.js` - Application header with logo, quick-add task button, and dark mode toggle
+- `src/components/layout/Sidebar.js` - Navigation sidebar with collated tasks and projects list
+- `src/components/layout/Content.js` - Main content wrapper combining Sidebar and Tasks components
+
