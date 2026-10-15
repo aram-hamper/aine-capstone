@@ -45,3 +45,9 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 
 - `src/hooks/index.js` - Custom React hooks for tasks and projects with Firebase Firestore integration
 
+### Source - Context
+
+- `src/context/index.js` - Barrel export for context providers and hooks
+- `src/context/projects-context.js` - React Context for managing projects state across the application
+- `src/context/selected-project-context.js` - React Context for tracking the currently selected project
+
