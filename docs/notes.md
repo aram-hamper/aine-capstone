@@ -81,3 +81,11 @@ This document provides a comprehensive listing of all tracked files in the Todoi
 - `src/__tests__/ProjectOverlay.spec.js` - Unit tests for the project selection overlay
 - `src/__tests__/Checkbox.spec.js` - Unit tests for the task completion checkbox
 
+### Source - Firebase Configuration
+
+- `src/firebase.js.example` - Template for Firebase configuration with placeholder credentials
+
+### Environment Files
+
+- `.env` - Environment variables file (not tracked in git; contains sensitive credentials)
+
