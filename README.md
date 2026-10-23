@@ -31,7 +31,7 @@ Subscribe to my YouTube channel here: http://bit.ly/CognitiveSurge where I build
 
 ## Running tests
 
-To run the test suite, first install dependencies:
+The available project scripts are defined in package.json. To run the test suite, first install dependencies:
 
 ```bash
 npm install
